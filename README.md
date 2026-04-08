@@ -2,11 +2,27 @@
 
 [![GIMP project](https://img.shields.io/badge/GIMP%20Project-8C8073)](tyranids-skirmish.xcf) [![CC](https://img.shields.io/badge/LICENSE-Creative%20Commons)](LICENSE.md)
 
-![Preview](tyranid-skirmish.png)
+<a href="tyranid-skirmish.png"><img src="tyranid-skirmish.png" width="180" height="240" /></a>
 
 # SUMMARY
 
 Hot swappable palettes for simulating army colors.
+
+# EXAMPLES
+
+## Arachne
+
+<a href="examples/arachne.png"><img src="examples/arachne.png" width="180" height="240" /></a>
+
+## Behemoth
+
+<a href="examples/behemoth.png"><img src="examples/behemoth.png" width="180" height="240" /></a>
+
+## Kraken
+
+<a href="examples/kraken.png"><img src="examples/kraken.png" width="180" height="240" /></a>
+
+See [examples](examples) for more inspiration.
 
 # RECOMMENDED
 
