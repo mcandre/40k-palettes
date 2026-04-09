@@ -18,9 +18,9 @@ Hot swappable palettes for simulating army colors.
 
 <a href="examples/behemoth.png"><img src="examples/behemoth.png" width="180" height="240" /></a>
 
-## Kraken
+## Ophidia
 
-<a href="examples/kraken.png"><img src="examples/kraken.png" width="180" height="240" /></a>
+<a href="examples/ophidia.png"><img src="examples/ophidia.png" width="180" height="240" /></a>
 
 See [examples](examples) for more inspiration.
 
