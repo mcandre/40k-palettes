@@ -1,6 +1,6 @@
 # 40k-palettes: digital army canvas
 
-[![GIMP project](https://img.shields.io/badge/GIMP%20Project-8C8073)](tyranids-skirmish.xcf) [![CC](https://img.shields.io/badge/LICENSE-Creative%20Commons)](LICENSE.md)
+[![Made with GIMP](https://badgen.net/static/made%20with/GIMP/8c8073)](tyranids-skirmish.xcf) [![License](https://badgen.net/static/license/CC?color=fff)](LICENSE.md)
 
 <a href="tyranid-skirmish.png"><img src="tyranid-skirmish.png" width="180" height="240" /></a>
 
